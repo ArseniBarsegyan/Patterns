@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreationalPatterns", "CreationalPatterns\CreationalPatterns.csproj", "{B5EDD7EA-6ECE-45B4-B9BA-7F7C06947362}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehavioralPatterns", "BehavioralPatterns\BehavioralPatterns.csproj", "{12CFF682-2C28-40EE-B1AF-34ACFCDAD46E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BehavioralPatterns", "BehavioralPatterns\BehavioralPatterns.csproj", "{12CFF682-2C28-40EE-B1AF-34ACFCDAD46E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuralPatterns", "StructuralPatterns\StructuralPatterns.csproj", "{472CB017-B9D8-491F-B91E-417A54B8C32B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{12CFF682-2C28-40EE-B1AF-34ACFCDAD46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12CFF682-2C28-40EE-B1AF-34ACFCDAD46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12CFF682-2C28-40EE-B1AF-34ACFCDAD46E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{472CB017-B9D8-491F-B91E-417A54B8C32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472CB017-B9D8-491F-B91E-417A54B8C32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472CB017-B9D8-491F-B91E-417A54B8C32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472CB017-B9D8-491F-B91E-417A54B8C32B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
